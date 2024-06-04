@@ -1,0 +1,7 @@
+
+.finalizado{
+    text-decoration: line-through;
+}
+.table th {
+    padding: 15px; /* Ajusta el valor según desees */
+}
